@@ -1,2 +1,4 @@
-# bakalari-2024
-představení výzkumné skupiny bakalářským studentkám a studentům
+# Představení výzkumné skupiny bakalářským studentkám a studentům
+
+datum: 1. 10. 2024
+prezentoval: Michal H. Kolář
